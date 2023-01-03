@@ -1,0 +1,88 @@
+en:
+  language: |
+              For English, enter: en
+              Para Español, entra: es
+              Para sa Filipino, ipasok: fil
+  welcome: |
+          Welcome to Calculator! We'll ask you for two operands and an operator, then give you the result of the calculation.
+              Enter your name:
+  invalid_name: "Make sure to use a valid name."
+  greeting: "=> Hi %{name}!"
+  instructions: ""
+  first_number: "What's the first operand?"
+  second_number: "What's the second operand?"
+  not_valid_number: "Hmm... that doesn't look like a valid number."
+  zero_division_error: "Can't divide by zero! Please choose 1, 2, or 3."
+  operator_prompt: |
+                What operation would you like for perform?
+                    To add:      enter 1
+                    To subtract: enter 2
+                    To multiply: enter 3
+                    To divide:   enter 4
+  valid_operator: "Must enter 1, 2, 3, or 4."
+  adding: "Adding"
+  subtracting: "Subtracting"
+  multiplying: "Multiplying"
+  dividing: "Dividing"
+  operation: "=> %{operation} %{number1} and %{number2}..."
+  result: "=> The result is %{result}!"
+  another_calculation: "Do you want to perform another calculation? ('Y' to calculate again / 'N' to quit.)"
+  invalid_continue: "Invalid input. Please choose 'Y' or 'N'."
+  again: "Yay! More math!"
+  goodbye: "Thank you for using the calculator. Good bye!"
+
+es:
+  welcome: |
+          ¡Bienvenido a la calculadora! Le pediremos dos operandos y un operador, luego le daremos el resultado del cálculo.
+              Entre su nombre:
+  invalid_name: "Asegúrese de entrar un nombre válido."
+  greeting: "=> ¡Hola %{name}!"
+  first_number: "¿Cuál es el primer operando?"
+  second_number: "¿Cuál es el segundo operando?"
+  not_valid_number: "Hmm ... eso no parece un número válido."
+  zero_division_error: "¡No se puede dividir por cero! Elija 1, 2 o 3."
+  operator_prompt: |
+                ¿Qué operación le gustaría realizar?
+                    Para agregar:     ingrese 1
+                    Para restar:      ingrese 2
+                    Para multiplicar: ingrese 3
+                    Para dividir:     ingrese 4
+  valid_operator: "Debe ingrese 1, 2, 3 o 4."
+  adding: "Agregando"
+  subtracting: "Restando"
+  multiplying: "Multiplicar"
+  dividing: "Divisor"
+  operation: "%{operation} %{number1} y %{number2}..."
+  result: "El resultado es %{result}!"
+  another_calculation: "¿Quieres realizar otro cálculo? ('Y' para calcular de nuevo / 'N' para dejar de fumar)"
+  invalid_continue: "Entrada no válida. Elija 'Y' o 'N'."
+  again: "¡Yay! ¡Más matemáticas!"
+  goodbye: "Gracias por usar la calculadora. ¡Adiós!"
+
+fil:
+  welcome: |
+          Maligayang pagdating sa Calculator! Hihilingin namin sa iyo para sa dalawang operan at isang operator, pagkatapos ay bibigyan ka ng resulta ng pagkalkula.
+              Ipasok ang iyong pangalan:
+  invalid_name: "Tiyaking maglagay ng wastong pangalan."
+  greeting: "=> Kamusta %{name}!"
+  first_number: "Ano ang unang operan?"
+  second_number: "Ano ang ikalawang operan?"
+  not_valid_number: "Hmm ... mukhang hindi wastong numero iyon."
+  zero_division_error: "Hindi mahati sa zero! Mangyaring pumili ng 1, 2, o 3."
+  operator_prompt: |
+                Anong operasyon ang nais mong gawin?
+                    Upang idagdag:   ipasok ang 1
+                    Upang ibawas:    ipasok ang 2
+                    Upang magparami: ipasok ang 3
+                    Upang hatiin:    ipasok ang 4
+  valid_operator: "Dapat ipasok ang 1, 2, 3, o 4."
+  adding: "Pagdagdag"
+  subtracting: "Binabawas"
+  multiplying: "Pinaparami"
+  dividing: "Paghahati"
+  operation: "%{operation} ang %{number1} at %{number2}..."
+  result: "Ang resulta ay %{result}!"
+  another_calculation: "Nais mo bang magsagawa ng isa pang pagkalkula? ('Y' upang makalkula muli / 'N' upang tumigil)"
+  invalid_continue: "Di-wastong pag-input. Mangyaring piliin ang 'Y' o 'N'."
+  again: "Yay! Mas maraming matematika!"
+  goodbye: "Salamat sa paggamit ng calculator. Paalam na!"
